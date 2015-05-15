@@ -8,5 +8,5 @@ int main(void){
         for(i=0; i<5; i++){
                 // edit this line
         }
-        printf("average : %f\n", (float)sum/5);
+        printf("average : %f\n", (double)sum/5);
 }
